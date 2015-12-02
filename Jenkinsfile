@@ -1,3 +1,3 @@
 node {
-  echo "Hello World from Spain"
+  echo "Hello World2 from Spain"
 }
